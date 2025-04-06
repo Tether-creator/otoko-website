@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Styles (optional) */
+.bg-hero {
+  background-image: url('/img/hero-background.jpg');
+}
